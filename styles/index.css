@@ -1,16 +1,21 @@
+nav {
+  display: inline-block;
+
+}
+
 .title
 {
   margin-left: 25%;
   margin-top: -40%;
   text-align: center;
   width: 50%;
-  font-family: 'Exo', sans-serif;
-  color: green;
+  font-family: 'white', sans-serif;
+  color: white;
 
 }
 
 #fPage{
   top: 0;
-  height: 96vh;
+  height: 94vh;
   width: 100vw;
 }
