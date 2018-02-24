@@ -1,0 +1,20 @@
+nav {
+  display: inline-block;
+}
+
+.title
+{
+  margin-left: 25%;
+  margin-top: -37.5%;
+  text-align: center;
+  width: 50%;
+  color: white;
+  font-size: 75pt;
+
+}
+
+#fPage{
+  top: 0;
+  height: 94vh;
+  width: 100vw;
+}
