@@ -1,0 +1,23 @@
+#fPage{
+  top: 0;
+  height: 94vh;
+  width: 100vw;
+  opacity: 0.6;
+  overflow-y: scroll;
+}
+
+.types {
+  overflow-y: scroll;
+}
+
+.sublist{
+  top : 10%;
+  left : 4%;
+  height: 90vh;
+  width: 80vw;
+  list-style: none;
+  font-size: 20pt;
+  position: absolute;
+  overflow-y: scroll;
+}
+
