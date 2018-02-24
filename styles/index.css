@@ -5,6 +5,12 @@
   text-align: center;
   width: 50%;
   font-family: 'Exo', sans-serif;
-  color: #FFFF66;
+  color: green;
 
+}
+
+#fPage{
+  top: 0;
+  height: 96vh;
+  width: 100vw;
 }
